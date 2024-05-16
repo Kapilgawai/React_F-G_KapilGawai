@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_F-G_KapilGawai/static/css/main.e763c5e5.css",
+    "main.js": "/React_F-G_KapilGawai/static/js/main.79106cc4.js",
+    "static/js/453.a4ecd15d.chunk.js": "/React_F-G_KapilGawai/static/js/453.a4ecd15d.chunk.js",
+    "index.html": "/React_F-G_KapilGawai/index.html",
+    "main.e763c5e5.css.map": "/React_F-G_KapilGawai/static/css/main.e763c5e5.css.map",
+    "main.79106cc4.js.map": "/React_F-G_KapilGawai/static/js/main.79106cc4.js.map",
+    "453.a4ecd15d.chunk.js.map": "/React_F-G_KapilGawai/static/js/453.a4ecd15d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e763c5e5.css",
+    "static/js/main.79106cc4.js"
+  ]
+}
